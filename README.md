@@ -12,3 +12,18 @@ Variational Quantum Circuit for Multi-classification](https://arxiv.org/pdf/2307
 - `data_helper.py` includes the functions for data processing.
 - `util.py` contains the functions for recording intermediate results.
 
+
+## Contact
+If there is any question, please send emails to [jwu21@wm.edu](jwu21@wm.edu).
+
+## Citation
+If you use this code in your work, please cite our paper.
+```
+@article{wu2023more,
+  title={MORE: Measurement and Correlation Based Variational Quantum Circuit for Multi-classification},
+  author={Wu, Jindi and Hu, Tianjie and Li, Qun},
+  journal={arXiv preprint arXiv:2307.11875},
+  year={2023}
+}
+```
+
