@@ -1,6 +1,6 @@
 # MORE
 This repo is the code used to produce the results presented in "[MORE: Measurement and Correlation Based
-Variational Quantum Circuit for Multi-classification]([https://arxiv.org/pdf/2208.07719.pdf]".
+Variational Quantum Circuit for Multi-classification](https://arxiv.org/pdf/2307.11875.pdf)".
 
 ## Content
 - `MORE_clustering.py` implements the first step of MORE, which involves translating classical labels into quantum labels. It utilizes the variational quantum clustering algorithm to capture interclass correlations.
